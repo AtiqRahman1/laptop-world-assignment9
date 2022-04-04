@@ -7,8 +7,9 @@ const Review = (props) => {
         <div >
             <div className='card'>
                 <h2>{name}</h2>
-                <p>Review: <span>{reviewdetail}</span></p>
-                <p><small>Ratings:{ratings}</small></p>
+                <p><span className='text-review'>Review:</span>
+                    {reviewdetail}</p>
+                <p><small>Ratings: {ratings}</small></p>
             </div>
         </div>
     );

@@ -3,3 +3,8 @@
     grid-template-columns: repeat(3, 1fr);
 
 }
+
+.title-text {
+    text-align: center;
+    font-size: 40px;
+}

@@ -1,0 +1,9 @@
+.line-bar-chart {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-item {
+    text-align: center;
+    color: cornflowerblue;
+}
