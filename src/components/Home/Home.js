@@ -2,7 +2,9 @@ import React from 'react';
 import './Home.css';
 import image from '../image/HP-laptop.jpg';
 
+
 const Home = () => {
+
     return (
         <div>
             <section className='container'>
@@ -17,6 +19,9 @@ const Home = () => {
             </section>
             <section className='customer-container'>
                 <h1>Customer Reviews</h1>
+                {
+
+                }
                 <button className='reviews-btn'>See All Reviews</button>
             </section>
         </div>
