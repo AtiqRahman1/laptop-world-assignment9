@@ -12,5 +12,26 @@
 }
 
 .text {
+    margin-top: 100px;
     padding-left: 100px;
+    font-style: italic;
+}
+
+.customer-container {
+    margin: 15px;
+    text-align: center;
+}
+
+.customer-container h1 {
+    font-size: 40px;
+}
+
+.reviews-btn {
+    padding: 10px;
+    border: none;
+    background-color: lightslategray;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
 }
