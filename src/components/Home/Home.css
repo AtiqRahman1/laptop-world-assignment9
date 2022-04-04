@@ -9,10 +9,14 @@
     height: 500px;
 }
 
-.text {
-    margin-top: 100px;
+.text-area {
+    margin-top: 80px;
     padding-left: 100px;
     font-style: italic;
+}
+
+.text-area h1 {
+    font-size: 40px;
 }
 
 .customer-container {
