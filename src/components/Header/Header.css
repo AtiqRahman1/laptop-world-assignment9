@@ -1,0 +1,24 @@
+nav {
+    height: 80px;
+    background-color: lightslategray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.1);
+    padding-left: 140px;
+    padding-right: 140px;
+
+}
+
+.site-name {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+}
+
+.link {
+    text-decoration: none;
+    color: wheat;
+    margin-left: 15px;
+    font-size: 20px;
+}

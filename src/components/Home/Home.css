@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+
+}
+
+.image img {
+    width: 600px;
+    height: 500px;
+
+}
+
+.text {
+    padding-left: 100px;
+}
