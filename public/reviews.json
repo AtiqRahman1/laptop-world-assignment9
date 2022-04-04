@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "name": "Stacey",
+        "name": "Karen Rick",
         "reviewdetail": "My laptop of more than five years, has been finally showing signs of wear and tear. Thanks to my husband and bother in law's help, they were able to navigate me to HP.",
         "ratings": "4.5 stars"
     },
     {
         "id": 2,
-        "name": "Tylor",
+        "name": "Dennis Schulist",
         "reviewdetail": "I'm so happy that I bought this laptop it is so fast and its size is perfect , so easy to carry to so simple to use and it helps a lot for your study I totally recommend it.",
         "ratings": "4.9 stars"
     },
     {
         "id": 3,
         "name": "Smartin",
-        "reviewdetail": "We bought this recently and really are enjoying the ease of use",
-        "ratings": "4.8 stars"
+        "reviewdetail": "We bought this recently and really are enjoying the ease of use.",
+        "ratings": "4.4 stars"
     },
     {
         "id": 4,
@@ -25,13 +25,13 @@
     },
     {
         "id": 5,
-        "name": "Karen Rick",
+        "name": "Stacey",
         "reviewdetail": "Brought the laptop for my small business and would definitely recommend it to other business owners. It's sleek, it's stylish and it's powerful.",
         "ratings": "4.3 stars"
     },
     {
         "id": 6,
-        "name": " Dennis Schulist",
+        "name": "Tylor",
         "reviewdetail": "Great laptop, this is my third envy, would recommend",
         "ratings": "4.1 stars"
     }

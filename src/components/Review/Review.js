@@ -2,7 +2,6 @@ import React from 'react';
 import './Review.css'
 
 const Review = (props) => {
-    console.log(props)
     const { name, reviewdetail, ratings } = props.reviews;
     return (
         <div >
